@@ -35,7 +35,3 @@ To launch the application, navigate to the project directory and run the followi
 ```bash
 streamlit run app.py
 ```
-
-## Credits
-
-This project was developed by [Your Name]. It is based on the concepts of machine learning and web development using Streamlit.
